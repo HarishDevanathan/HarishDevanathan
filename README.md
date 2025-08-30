@@ -1,7 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Harish</h1>
 
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=CS+Student+%40+SSNCE;Aspiring+Cloud+Engineer;Backend+Developer;Data+Enthusiast;Always+learning+DSA+%26+Data+Engineering)](https://git.io/typing-svg)
+
+</div>
 
 
 <p align="center">
