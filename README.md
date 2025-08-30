@@ -1,10 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Harish</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=🎓+CS+Student+%40+SSNCE;☁️+Aspiring+Cloud+Engineer;💻+Backend+Developer;📊+Data+Enthusiast;Always+learning+DSA+%26+Data+Engineering" alt="Typing SVG" />
-  </a>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&lines=CS+Student+%40+SSNCE;Aspiring+Cloud+Engineer;Backend+Developer;Data+Enthusiast;Always+learning+DSA+%26+Data+Engineering)](https://git.io/typing-svg)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-Engineer-informational?style=for-the-badge" />
